@@ -1,10 +1,10 @@
 class aksestingkatmember{
     //member itu ada 2, data seperti biasa dan metode
-    /*contoh member
+    /*contoh member*/
     int test = 5;
     
     int get_test(){
-        return test;*/
+        return test;
 
     /*di member ada 4 nilai akses tingkat yaitu 
     1. default
